@@ -132,7 +132,7 @@ if __name__ == "__main__":
     search_strings = [
         "Gender:men,men women",
         "Gender:men women,women",
-        "Gender:boys boys,girls",
+        "Gender:boys,boys girls",
         "Gender:boys girls,girls",
     ]
     sort_options = ["new", "popularity", "discount", "price_desc", "price_asc"]
